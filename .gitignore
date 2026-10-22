@@ -1,0 +1,10 @@
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+models/
+*.gguf
+*.safetensors
+*.bin
+.env
+.env.*
